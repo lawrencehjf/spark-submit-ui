@@ -6,7 +6,7 @@
 
 #### 测试环境
 * JDK8
-* Centet OS  6.5
+* Center OS  6.5
 * Spark 1.5.2
 * Hadoop 2.6.0
 * Scala 2.11
